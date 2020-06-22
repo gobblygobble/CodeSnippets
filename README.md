@@ -3,4 +3,4 @@
 
 1. *second_smallest_element.py*: get **second** smallest element from a list
 
-2. *argparse*: C++ files for parsing arguments (by Y. Kwon, KAIST EE)
+2. *argparse/*: C++ files for parsing command-line arguments (by Y. Kwon, KAIST EE)
