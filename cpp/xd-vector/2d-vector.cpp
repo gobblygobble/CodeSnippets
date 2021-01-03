@@ -1,4 +1,4 @@
-#include "2d-vector.hpp"
+#include "xd-vector.hpp"
 
 int main(int argc, char **argv) {
     // create 3x4 vector
