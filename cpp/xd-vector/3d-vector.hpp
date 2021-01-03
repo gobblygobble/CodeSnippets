@@ -3,7 +3,6 @@
 
 #include <iostream>
 #include <vector>
-//#include "2d-vector.hpp"
 
 typedef std::vector<std::vector<std::vector<int> > > vector_3d;
 
