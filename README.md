@@ -3,7 +3,7 @@
 
 ## Python snippets
 1. *second_smallest_element.py*: get **second** smallest element from a list  
-2. *parse_files*: get all files in current working directory  
+2. *parse_files/*: get all files in current working directory  
 
 ## C++ snippets
 1. *argparse/*: parsing command-line arguments (by Y. Kwon, KAIST EE)  
