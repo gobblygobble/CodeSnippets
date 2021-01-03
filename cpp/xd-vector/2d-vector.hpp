@@ -21,7 +21,7 @@ void PrintVector_2d(vector_2d v) {
     std::cout << "2D vector consists of: " << std::endl;
     for (auto& yit : v) {
         for (auto& xit : yit) {
-            std::cout << xit;
+            std::cout << xit << " ";
         }
         std::cout << std::endl;
     }
