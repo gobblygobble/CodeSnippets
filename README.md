@@ -9,5 +9,6 @@
 1. `argparse/`: parsing command-line arguments (*by Y. Kwon, KAIST EE*)  
 2. `subvector.cpp`: creating subvectors from existing vector  
 3. `xd-vector/`: 2D and 3D `std::vector` **without** having to use `boost::multi_array` (`g++ -std=c++11`)  
+4. `aggregate-duplicates.cpp`: aggregating duplicate key elements from vector to have no duplicate key elements using `std::map` (`g++ -std=c++11`)  
 
 Copyright © Jinha Chung, KAIST School of Electrical Engineering
