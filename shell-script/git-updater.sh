@@ -15,5 +15,5 @@ message="'$*'"
 
 # git commit with date + message
 #git commit -m $today" "$message
-git commit -m "'$today $message'"
+git commit -m "$today $message"
 #git push origin master
