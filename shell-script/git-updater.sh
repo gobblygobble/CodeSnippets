@@ -11,7 +11,7 @@ now=$(LANG=en_us_88591; date "+%Y.%m.%d %T")
 #echo $now
 
 # get ALL user inputs
-message="'$*'"
+message="$*"
 
 # git commit with date + message
 #git commit -m $today" "$message
