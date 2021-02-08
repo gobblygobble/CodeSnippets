@@ -14,6 +14,6 @@ now=$(LANG=en_us_88591; date "+%Y.%m.%d %T")
 message="$*"
 
 # git commit with date + message
-#git commit -m $today" "$message
 git commit -m "$today $message"
+# push if wanted
 #git push origin master
