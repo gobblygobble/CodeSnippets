@@ -13,6 +13,7 @@
 5. `concatenate-vectors.cpp`: aggregating multiple vectors into single vector (`g++ -std=c++11`)  
 
 ## Shell script snippets (`shell-script/`)
-1. `git-updater.sh`: saves commit with current date/time + message given - ex) `sh git-updater.sh "my message"` will result in something along the lines of  `git commit -m "1970.01.01 00:00:00 my message"`  
+1. `git-updater.sh`: saves commit with current date/time + message given:  
+e.g., `sh git-updater.sh "my message"` will result in something along the lines of  `git commit -m "1970.01.01 00:00:00 my message"`  
 
 Copyright © Jinha Chung, KAIST School of Electrical Engineering
